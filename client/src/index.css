@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Oleo+Script+Swash+Caps:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'DM Serif Display', serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  scroll-behavior: smooth;
+}

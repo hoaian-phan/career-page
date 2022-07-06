@@ -1,0 +1,17 @@
+.light-bg {
+  background-color: #EECAC9;
+}
+
+.lg-text {
+  font-size: 400%;
+  color: #E43D40;
+}
+
+
+.img-border {
+  border-radius: 30px;
+}
+
+.contain-padding {
+  padding-top: 100px;
+}

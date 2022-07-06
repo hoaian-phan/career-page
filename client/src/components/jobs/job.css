@@ -1,0 +1,28 @@
+.job-display {
+  padding: 10px;
+  border-top: 1px solid #e7e3dd;
+  transition: transform 300mx ease-in;
+}
+
+.job-display:hover {
+  box-shadow: 0 2px 15px gray;
+  border-radius: 30px;
+  background-color: white;
+  transform: scale(1.02);
+}
+
+
+/* .table {
+  border-collapse: collapse;
+  text-indent: initial;
+  border-spacing: 2px;
+  border: none;
+} */
+
+.lightest-bg {
+  background-color: #fbf8f2;
+}
+
+.validation {
+  color: red;
+}
