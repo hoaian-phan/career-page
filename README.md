@@ -46,12 +46,12 @@ To run this project, install it locally:
 
 - Clone this repository
 ```
-$ git clone https://github.com/hoaian-phan/qvin_career_page.git
+$ git clone https://github.com/hoaian-phan/career-page.git
 ```
 
 - Go into the repository
 ```
-$ cd qvin_career_page
+$ cd career-page
 ```
 1. First, you need to start the server: Go into the flask-server repository
 ```
@@ -84,7 +84,7 @@ $ python3 server.py
 
 2. Client: Start a new terminal and go into the client repository
 ```
-$ cd qvin_career_page/client
+$ cd career-page/client
 ```
 
 - Install dependencies:
