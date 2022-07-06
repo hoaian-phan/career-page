@@ -14,6 +14,32 @@ After candidates submit their applications, post requests are sent to the server
 - APIs: internal APIs for Team members and Jobs
 
 
+## A Quick Look
+- Banner: Embedded Youtube video
+<p align="center">          
+  <img src="/flask-server/static/img/read_me/banner.jpg" width=800>
+</p>
+
+
+- Team members: API calls return team members information as JSON and are displayed as cards in grid system. 
+<p align="center">          
+  <img src="/flask-server/static/img/read_me/members.jpg" width=800>
+</p>
+
+
+- Jobs: API calls return open positions as JSON and as displayed as a list which is highlighted on mouse hovering.
+<p align="center">          
+  <img src="/flask-server/static/imageimg/read_me/jobs.jpg" width=800>
+</p>
+
+
+- Applications: When a job is clicked, a modal is open with a form. Inputs are validated before sending a post request to the server to save the application to the database.
+<p align="center">          
+  <img src="/flask-server/static/imageimg/read_me/form-validation.jpg" width=800>
+</p>
+
+
+
 ## Set Up
 
 To run this project, install it locally:
